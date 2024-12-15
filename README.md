@@ -22,7 +22,7 @@
 
 Here’s a preview of what Splitty looks like:
 
-![Screenshot 1](Screenshot%201.png) 
+<img src="Screenshot%201.png" alt="Screenshot 1" width="400" height="300"/> 
 ![Screenshot 2](Screenshot 2.png)
 
 ---
