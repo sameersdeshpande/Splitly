@@ -22,8 +22,8 @@
 
 Here’s a preview of what Splitty looks like:
 
-![Screenshot 1](path-to-screenshot1.png)  
-![Screenshot 2](path-to-screenshot2.png)
+![Screenshot 1](Screenshot 1.png)  
+![Screenshot 2](Screenshot 2.png)
 
 ---
 
