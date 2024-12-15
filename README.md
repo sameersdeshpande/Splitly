@@ -22,7 +22,8 @@
 
 Here’s a preview of what Splitty looks like:
 
-<img src="Screenshot%201.png" alt="screenshot" width="300" height="400"/> 
+<img src="screenshot.png" alt="Screenshot" width="400" height="300"/>
+
 
 
 ---
