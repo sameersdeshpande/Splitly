@@ -26,17 +26,18 @@ Here’s a preview of what Splitty looks like:
 
 ---
 
-## Tech Stack
 
 We used the following technologies to build **Splitty**:
 
 | Technology       | Logo | Description |
 |------------------|------|-------------|
-| **SwiftUI**      | ![SwiftUI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Swift_logo%2C_SW.png/600px-Swift_logo%2C_SW.png) | For building the app’s modern and responsive user interface. |
-| **SQLite**       | ![SQLite Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/SQLite370.svg/1200px-SQLite370.svg.png) | For managing persistent storage of expenses and participants data. |
-| **SQLite.swift** | ![SQLite.swift Logo](https://avatars.githubusercontent.com/u/3254778?s=200&v=4) | A Swift library that simplifies working with SQLite in iOS. |
-| **Combine**      | ![Combine Logo](https://developer.apple.com/assets/elements/icons/combine/combine-128x128_2x.png) | For managing reactive data streams and binding the data to the UI. |
-| **UIKit**        | ![UIKit Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/UIKit_logo.svg/2560px-Uikit_logo.svg.png) | Used for certain components that require finer control, when not using SwiftUI. |
+| **Swift**        | ![Swift Logo](https://upload.wikimedia.org/wikipedia/commons/1/1f/Swift_logo%2C_SW.png) | Swift programming language for building iOS apps. |
+| **Xcode**        | ![Xcode Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Xcode_logo.svg/200px-Xcode_logo.svg.png) | Apple's integrated development environment (IDE) for macOS. |
+| **SwiftUI**      | ![SwiftUI Logo](https://developer.apple.com/assets/elements/icons/swiftui/swiftui-128x128_2x.png) | A framework for building modern iOS user interfaces. |
+| **SQLite**       | ![SQLite Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/SQLite370.svg/1200px-SQLite370.svg.png) | Lightweight database engine for local data storage. |
+| **SQLite.swift** | ![SQLite.swift Logo](https://avatars.githubusercontent.com/u/3254778?s=200&v=4) | A Swift library for working with SQLite in iOS applications. |
+| **Combine**      | ![Combine Logo](https://developer.apple.com/assets/elements/icons/combine/combine-128x128_2x.png) | Framework for declarative Swift programming to handle asynchronous events. |
+| **UIKit**        | ![UIKit Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/UIKit_logo.svg/2560px-Uikit_logo.svg.png) | A framework for building and managing iOS user interfaces. |
 
 ---
 
