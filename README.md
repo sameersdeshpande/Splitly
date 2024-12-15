@@ -1,4 +1,4 @@
-# Splitty - A Simple Expense Splitter App
+# Splitly - A Simple Expense Splitter App
 
 **Splitty** is a simple, user-friendly iOS app built with **SwiftUI** and **SQLite** that helps you easily split bills and track shared expenses with friends, family, or colleagues. Whether you're at a restaurant, on a trip, or just sharing any group expense, Splitty ensures everyone knows exactly how much they owe.
 
