@@ -120,10 +120,10 @@ We welcome contributions to **Splitty**! If you'd like to improve the app, fix b
    ```bash
    git commit -m "Improve spending analytics visualization"
    ```
-5. **Push to your forked repository:
+5. Push to your forked repository:
 Push the changes to your forked repository.
 
-6. **Create a Pull Request:
+6. Create a Pull Request:
 Once your changes are ready, create a pull request to the main branch of the original repository.
 Include a clear description of what changes you’ve made and why. If applicable, reference the related issue number (e.g., "Closes #45").
 
