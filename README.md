@@ -10,9 +10,10 @@
 - **Multiple Participants**: Add as many participants as needed and track individual amounts.
 - **Customizable Splits**: Split the costs equally or adjust individual contributions.
 - **Real-time Updates**: The app dynamically updates the total and individual balances as you add, remove, or adjust expenses.
-- **Tax & Tip Support**: Automatically calculate taxes and tips and distribute them across the participants.
 - **Currency Support**: Choose from different currencies for international usage.
+- **Currency Conversion**: Automatically convert expenses into different currencies based on real-time exchange rates, making it easy to split bills across borders.
 - **Simple and Intuitive UI**: Clean, modern design with a straightforward user interface that makes splitting bills easy.
+- **Dark Mode Support**: The app supports both light and dark mode for a seamless user experience in different lighting conditions.
 
 ---
 
