@@ -30,11 +30,11 @@ Here’s a preview of what Splitty looks like:
 We used the following technologies to build **Splitty**:
 
 ![Swift](https://img.shields.io/badge/Swift-4C4C4C?style=flat&logo=swift&logoColor=white)  
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)  
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=blue)  
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-100000?style=flat&logo=swift&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
-![SQLite.swift](https://img.shields.io/badge/SQLite.swift-3C3C3C?style=flat&logo=swift&logoColor=white)  
-![UIKit](https://img.shields.io/badge/UIKit-0078D4?style=flat&logo=apple&logoColor=white)
+![SQLite.swift](https://img.shields.io/badge/SQLite.swift-3C3C3C?style=flat&logo=swift&logoColor=gray)  
+![UIKit](https://img.shields.io/badge/UIKit-0078D4?style=flat&logo=apple&logoColor=red)
 
 
 
