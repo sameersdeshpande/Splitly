@@ -50,6 +50,13 @@ Clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/yourusername/splitty.git
+```
 
+### 2. Open the project in Xcode
 
+After cloning the repo, navigate to the project folder and open the .xcworkspace file (not the .xcodeproj file) in Xcode. This ensures that all dependencies and configurations are properly set up.
 
+```bash
+cd splitty
+open Splitty.xcworkspace
+```
